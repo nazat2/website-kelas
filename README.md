@@ -23,15 +23,6 @@
   </a>
 </p>
 
-### 📈 github stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazat2&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazat2&layout=compact&theme=radical" height="150" />
-</div>
-
----
-
 ### 🏆 achievements
 
 <p align="center">
