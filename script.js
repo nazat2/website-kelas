@@ -74,7 +74,7 @@ function initWaliKelas() {
             <div class="wali-card">
                 <div class="s-icon"><i class="fas fa-chalkboard-user"></i></div>
                 <div class="s-role">WALI KELAS XI TJKT 1</div>
-                <div class="s-name">ABDUL WAHAB, S.Pd.I</div>
+                <div class="s-name">N AGIS PURNAMA SARI</div>
             </div>
         `;
     }
@@ -83,12 +83,12 @@ function initWaliKelas() {
 function initPengurus() {
     const pengurusGrid = document.getElementById('pengurus-grid');
     const pengurus = [
-        { role: "Ketua", name: "MUHAMMAD FARHAN FAUZI", icon: "fas fa-crown" },
-        { role: "Wakil Ketua", name: "SALMA DZAKIRAH", icon: "fas fa-hand-peace" },
+        { role: "Ketua", name: "SYIFA KHOIRUNNISA", icon: "fas fa-crown" },
+        { role: "Wakil Ketua", name: "MUHAMMAD RAIHANUN BASIT", icon: "fas fa-hand-peace" },
         { role: "Sekretaris 1", name: "NAZWA NURKEIFA", icon: "fas fa-book" },
         { role: "Sekretaris 2", name: "SITI NOERJANAH NATASYA", icon: "fas fa-book" },
-        { role: "Bendahara 1", name: "TESYA MULYANI REYHANA", icon: "fas fa-coins" },
-        { role: "Bendahara 2", name: "ZAHRA NOVIYANI PRATIWI", icon: "fas fa-coins" }
+        { role: "Bendahara 1", name: "GA TAU", icon: "fas fa-coins" },
+        { role: "Bendahara 2", name: "GA TAU", icon: "fas fa-coins" }
     ];
     
     if (pengurusGrid) {
